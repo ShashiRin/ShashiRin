@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is SHASHI
 #### Design and Development
-i am very shy
+I am Sharin  .I have a keen interest in frontend development. I am also enthusiastic about designing and art work.
 
 Skills:  / REACT / JS / HTML / CSS
 
